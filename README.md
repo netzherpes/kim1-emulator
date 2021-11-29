@@ -1,5 +1,8 @@
 # Linux terminal KIM-1 Emulator
 
+just a little mod to have more characters emulated 
+the Display mode does not use a new line, just updates the existing
+
 This is an emulator for the MOS KIM-1 6502 computer.
 
 The emulator runs from the command-line, and generally works like
